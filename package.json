@@ -1,0 +1,28 @@
+{
+  "name": "excalibur",
+  "version": "0.1.0",
+  "description": "Excalibur is simple node service to host your frontend project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yichunsung/Excalibur.git"
+  },
+  "keywords": [
+    "Excalibur",
+    "Vue",
+    "React",
+    "Angular",
+    "Svelte",
+    "Vite",
+    "Typescript"
+  ],
+  "author": "YiChun Sung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yichunsung/Excalibur/issues"
+  },
+  "homepage": "https://github.com/yichunsung/Excalibur#readme"
+}
